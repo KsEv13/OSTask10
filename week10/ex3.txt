@@ -1,0 +1,6 @@
+8725724278111788 _ex3.txt  
+-rw-r--r-- 1 ksev13 ksev13 9 Oct 21 22:01 _ex3.txt 
+-rw-r--r-- 1 ksev13 ksev13 9 Oct 21 22:01 _ex3.txt
+-rwx---rwx 1 ksev13 ksev13 9 Oct 21 22:01 _ex3.txt  
+-rwxrwxrwx 1 ksev13 ksev13 9 Oct 21 22:01 _ex3.txt   
+660 means rw-rw----, 775 means rwxrwxr-x, 777 means rwxrwxrwx

@@ -1,0 +1,6 @@
+ex2.txt
+week01
+37717646879277588 _ex2.txt
+37717646879277588 week01/file.txt
+./_ex2.txt
+./week01/file.txt

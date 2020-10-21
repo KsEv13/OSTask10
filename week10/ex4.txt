@@ -1,0 +1,25 @@
+.
+
+No file with more than 2 hardlinks
+..
+
+No file with more than 2 hardlinks
+ex4.c
+
+No file with more than 2 hardlinks
+ex4.exe
+
+No file with more than 2 hardlinks
+ex4.txt
+
+No file with more than 2 hardlinks
+file1
+
+Device id: 1586783875  Inode number: 145355  Hard Link : 2  Mode: 33188  UID: 1001  GID: 513  Size: 0 file2
+
+No file with more than 2 hardlinks
+link1
+
+Device id: 1586783875  Inode number: 145355  Hard Link : 2  Mode: 33188  UID: 1001  GID: 513  Size: 0 
+
+Total programs with more than 2 hardlinks : 2 
